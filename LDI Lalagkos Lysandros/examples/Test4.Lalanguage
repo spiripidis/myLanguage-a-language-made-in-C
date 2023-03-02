@@ -1,0 +1,31 @@
+Class test
+{
+	int main()
+	{
+		int x = 5;
+		int y = 4;
+
+		//this is an operation and an if statement
+		if(x>y)
+		{
+			return 0;
+		}
+		else
+		{
+			return 1;
+		}
+
+		int ok = 15;
+		while(ok>0)
+		{
+			return "i love u";
+			ok--;
+		}
+
+		/*this a test program with no purpose */
+
+		/* i forgot to show you the multiline comments 
+		and i will write in two different lines for this to happen.
+		*/
+	}
+}

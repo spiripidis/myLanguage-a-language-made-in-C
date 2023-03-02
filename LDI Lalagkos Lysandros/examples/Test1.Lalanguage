@@ -1,0 +1,11 @@
+Class test 
+{
+	int main()
+	{
+		int x = 5;
+		char name = 'w';
+		string data = "hello";
+		float y = 5.1;
+
+	}
+}
